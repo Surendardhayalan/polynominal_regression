@@ -1,0 +1,7 @@
+Polynomial regression:
+
+Polynomial regression is a type of regression analysis in statistics that involves fitting a polynomial equation to a set of data points. While simple linear regression models the relationship between the dependent variable (y) and a single independent variable (x) as a straight line.
+
+relationship between the independent variable (input) and the dependent variable (output) is not linear. While simple linear regression models the relationship as a straight line, polynomial regression allows for more flexibility by fitting a polynomial equation to the data.
+
+polynomial regression can capture the non-linear patterns in the data.
